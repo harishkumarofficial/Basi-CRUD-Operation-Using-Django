@@ -6,11 +6,11 @@ This project is a basic CRUD (Create, Read, Update, Delete) application built us
 ---------------
 Before running the application, make sure you have the following prerequisites installed:
 
-Python 3.8
-django 4.1
-django REST Framework 3.13
-djangorestframework-simplejwt 5.2.0
-Pillow==9.3.0
+1.Python 3.8
+2.django 4.1
+3.django REST Framework 3.13
+4.djangorestframework-simplejwt 5.2.0
+5.Pillow==9.3.0
 
 shell
 Copy code
