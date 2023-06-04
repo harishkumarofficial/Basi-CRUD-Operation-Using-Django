@@ -1,4 +1,4 @@
-## Project Name
+## Project Details
 ---------------
 This project is a basic CRUD (Create, Read, Update, Delete) application built using Django REST Framework.
 
